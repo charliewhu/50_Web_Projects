@@ -1,6 +1,6 @@
 # Projects
 
-<p align="center"> 
+<p> 
 A way to improve my javascript, using Brad Traversy's 50 small projects course.
 </p>
 
